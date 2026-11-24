@@ -57,7 +57,7 @@ CREATE TABLE public.appointments (
 
 ALTER TABLE public.appointments OWNER TO freecodecamp;
 
-
+--
 --
 -- Name: appointments_appointment_id_seq; Type: SEQUENCE; Schema: public; Owner: freecodecamp
 
@@ -267,4 +267,4 @@ ALTER TABLE ONLY public.appointments
 --
 -- PostgreSQL database dump complete
 
-
+--
